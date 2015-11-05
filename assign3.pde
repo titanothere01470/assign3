@@ -9,7 +9,6 @@ PImage treasure;
 PImage start1;
 PImage start2;
 
-
 int x;
 int ex,ey;   // enemy x.y coordinate
 int tx,ty;   // treasure x.y coordinate
@@ -123,19 +122,8 @@ void draw() {
       }
       
       break;
-      
-     
-       
-  
-     
- }
-       
-       
-       
-       
-           
-         
   }
+   }
 }
   
 
