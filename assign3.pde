@@ -120,8 +120,7 @@ void draw() {
           image (enemy,ex,ey);
           ex -= spacingX;  
       }
-      
-      break;
+       
   }
    }
 }
